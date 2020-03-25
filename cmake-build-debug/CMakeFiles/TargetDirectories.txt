@@ -1,0 +1,3 @@
+C:/Users/David Lazo/Desktop/Algoritmo 2/CLase1/train-maximum-in-pointer-array-davidalejandrolazopampa/cmake-build-debug/CMakeFiles/train_maximum_in_pointer_array_davidalejandrolazopampa.dir
+C:/Users/David Lazo/Desktop/Algoritmo 2/CLase1/train-maximum-in-pointer-array-davidalejandrolazopampa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/David Lazo/Desktop/Algoritmo 2/CLase1/train-maximum-in-pointer-array-davidalejandrolazopampa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
